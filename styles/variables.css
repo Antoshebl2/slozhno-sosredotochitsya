@@ -21,10 +21,10 @@
   --theme-menu-hover-color: rgba(255, 0, 112, 0.4);
 
   --section-bg-color: #ff0070;
-  --section-title-color-lite: #ff0070;
-  --section-title-color-dark: #000028;
+  --section-title-color-slave: #ff0070;
+  --section-title-color-main: #000028;
 
   --link-shadow-color: #ff0070;
-  --article__content-color: #f1b2ce;
+  --article-content-color: #f1b2ce;
   --decorated-zone-color: #ff0070;
 }

@@ -15,7 +15,7 @@
   --font-line-height: 23.4px;
   --font-weight-base: 400;
   --font-weight-bold: 700;
-  --bg-color: #f1b2ce;
+  --bg-color: #fff1f7;
   --bg-image: url("../images/cover-image-light.png");
 
   --rec-visibility: hidden;
@@ -28,11 +28,11 @@
   --theme-menu-hover-color: rgba(53, 52, 63, 0.4);
 
   --section-bg-color: #ff8dcb;
-  --section-title-color-lite: #353430;
-  --section-title-color-dark: #353430;
+  --section-title-color-slave: #353430;
+  --section-title-color-main: #353430;
 
   --link-shadow-color: #ff8dcb;
-  --article__content-color: #353430;
+  --article-content-color: #353430;
 
   --decorated-zone-color: #353430;
 }
@@ -44,7 +44,7 @@
     --font-line-height: 23.4px;
     --font-weight-base: 400;
     --font-weight-bold: 700;
-    --bg-color: #f1b2ce;
+    --bg-color: #fff1f7;
     --bg-image: url("../images/cover-image-light.png");
 
     --rec-visibility: hidden;
@@ -61,7 +61,7 @@
     --section-title-color-dark: #353430;
 
     --link-shadow-color: #ff8dcb;
-    --article__content-color: #353430;
+    --article-content-color: #353430;
 
     --decorated-zone-color: #353430;
   }
