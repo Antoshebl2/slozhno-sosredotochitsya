@@ -57,8 +57,8 @@
     --theme-menu-hover-color: rgba(53, 52, 63, 0.4);
 
     --section-bg-color: #ff8dcb;
-    --section-title-color-lite: #353430;
-    --section-title-color-dark: #353430;
+    --section-title-color-slave: #353430;
+    --section-title-color-main: #353430;
 
     --link-shadow-color: #ff8dcb;
     --article-content-color: #353430;
